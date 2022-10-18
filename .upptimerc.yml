@@ -1,29 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rainzee # Your GitHub organization or username, where this repository lives
+repo: RiotSkin4CN-Status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: RiotSkin4CN-API
+    url: https://riotskin4cn.deta.dev/v1/public
+  - name: RiotSkin4CN-Download
+    url: https://s-cd-4307-general.oss.dogecdn.com/riotskin4cn/live.json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /RiotSkin4CN-Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: RiotSkin4CN 系统状态
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: RiotSkin4CN 系统状态监控
   navbar:
-    - title: Status
-      href: /
+    - title: 下载客户端
+      href: https://s-cd-4307-general.oss.dogecdn.com/riotskin4cn/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
