@@ -4,9 +4,9 @@
     "url": "https://riotskin4cn.deta.dev/v1/public",
     "icon": "https://icons.duckduckgo.com/ip3/riotskin4cn.deta.dev.ico",
     "slug": "riot-skin4-cn-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 755,
     "timeMonth": 797,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "RiotSkin4CN-Download",
@@ -23,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/s-cd-4307-general.oss.dogecdn.com.ico",
     "slug": "riot-skin4-cn-download",
     "status": "up",
-    "uptime": "94.66%",
-    "uptimeDay": "91.20%",
+    "uptime": "94.74%",
+    "uptimeDay": "93.43%",
     "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "94.66%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "94.74%",
     "time": 1726,
-    "timeDay": 1833,
+    "timeDay": 1629,
     "timeWeek": 1844,
     "timeMonth": 1726,
     "timeYear": 1726,
