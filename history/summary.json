@@ -26,17 +26,17 @@
     "slug": "riot-skin4-cn-download",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "90.26%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "98.45%",
     "time": 2113,
-    "timeDay": 1644,
-    "timeWeek": 2079,
+    "timeDay": 1676,
+    "timeWeek": 2077,
     "timeMonth": 2023,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-02-24": 132,
+      "2023-02-24": 121,
       "2023-02-23": 169,
       "2023-02-22": 209,
       "2023-02-21": 45,
@@ -65,7 +65,7 @@
       "2023-01-25": 167,
       "2023-01-24": 23,
       "2023-01-23": 177,
-      "2023-01-22": 73
+      "2023-01-22": 90
     }
   }
 ]
