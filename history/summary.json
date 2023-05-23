@@ -24,14 +24,14 @@
     "url": "https://s-cd-4307-general.oss.dogecdn.com/riotskin4cn/live.json",
     "icon": "https://icons.duckduckgo.com/ip3/s-cd-4307-general.oss.dogecdn.com.ico",
     "slug": "riot-skin4-cn-download",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "99.12%",
     "time": 2134,
-    "timeDay": 2106,
+    "timeDay": 2115,
     "timeWeek": 2104,
     "timeMonth": 2135,
     "timeYear": 2134,
@@ -53,7 +53,7 @@
       "2023-05-09": 27,
       "2023-05-08": 90,
       "2023-05-07": 235,
-      "2023-05-06": 60
+      "2023-05-06": 39
     }
   }
 ]
