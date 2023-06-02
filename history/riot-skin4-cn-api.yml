@@ -1,7 +1,7 @@
 url: https://riotskin4cn.deta.dev/v1/public
-status: up
-code: 200
-responseTime: 1337
-lastUpdated: 2023-06-01T23:12:42.400Z
+status: down
+code: 503
+responseTime: 364
+lastUpdated: 2023-06-02T11:19:22.520Z
 startTime: Tue Oct 18 2022 10:15:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
