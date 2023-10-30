@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/riotskin4cn.deta.dev.ico",
     "slug": "riot-skin4-cn-api",
     "status": "down",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -58,17 +58,17 @@
     "url": "https://s-cd-4307-general.oss.dogecdn.com/riotskin4cn/live.json",
     "icon": "https://icons.duckduckgo.com/ip3/s-cd-4307-general.oss.dogecdn.com.ico",
     "slug": "riot-skin4-cn-download",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "96.82%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "90.40%",
+    "uptimeWeek": "97.55%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "99.55%",
     "time": 2116,
-    "timeDay": 2218,
-    "timeWeek": 2067,
+    "timeDay": 2287,
+    "timeWeek": 2121,
     "timeMonth": 2151,
-    "timeYear": 2122,
+    "timeYear": 2120,
     "dailyMinutesDown": {
       "2023-10-30": 96,
       "2023-10-29": 41,
@@ -134,8 +134,7 @@
       "2023-07-20": 47,
       "2023-07-18": 93,
       "2023-07-17": 20,
-      "2023-07-16": 15,
-      "2023-07-14": 19
+      "2023-07-16": 15
     }
   }
 ]
